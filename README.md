@@ -50,6 +50,13 @@ Focus: **AI Systems, RAG, Backend Development**
 
 ---
 
+## 🌟 Leadership & Activities
+- **Lead**, GDGoC KAIST (Google Developer Groups on Campus KAIST) `2025 ~ 2026`
+- **Campus Leader**, Notion Campus Leader Cohort 4 KAIST `2025 ~ 2026`
+- **Executive Director**, TEDxKAIST `2025 ~ 2026`
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xistoh162108&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xistoh162108&layout=compact&theme=tokyonight)
