@@ -63,4 +63,4 @@ Focus: **AI Systems, RAG, Backend Development**
 
 ---
 
-✨ Always exploring the intersection of **AI Systems, Backend Engineering, and Human Creativity**
+✨ Big interest on **AI Systems, Backend Engineering, and Human Creativity**
