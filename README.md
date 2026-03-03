@@ -8,9 +8,32 @@ email: xistoh162108@kaist.ac.kr
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                415 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌆 Daytime                550 commits         ███████████░░░░░░░░░░░░░░   44.46 % 
+🌃 Evening                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+🌙 Night                  237 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Tuesday                  132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Thursday                 21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Friday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Saturday                 434 commits         █████████░░░░░░░░░░░░░░░░   35.08 % 
+Sunday                   254 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Atlantic/Reykjavik
+
 💬 Programming Languages: 
 C++                      3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
 Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
@@ -39,5 +62,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 15:15:17 UTC
+ Last Updated on 03/03/2026 15:26:22 UTC
 <!--END_SECTION:waka-->
