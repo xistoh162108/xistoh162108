@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
-Markdown                 3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.01 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Docker                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+C++                      3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.80 % 
+Markdown                 3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Docker                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-KENSv3-master            3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
-Unknown Project          3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-26_03_FAKETTL            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-llm                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-soc_web                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+KENSv3-master            4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.16 % 
+Unknown Project          3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
+26_03_FAKETTL            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+llm                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+soc_web                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2026 15:29:45 UTC
+ Last Updated on 04/03/2026 18:33:10 UTC
 <!--END_SECTION:waka-->
