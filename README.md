@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        ███████████████░░░░░░░░░░   59.67 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown                 1 hr 44 mins        ██████████████░░░░░░░░░░░   57.11 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.44 % 
-madcamp-2026-winter-MV-BA28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-KENSv3-master            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-26_05_Folio              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-madcamp-homepage         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Unknown Project          1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.37 % 
+madcamp-2026-winter-MV-BA28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+KENSv3-master            19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+26_05_Folio              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+madcamp-homepage         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 15:14:03 UTC
+ Last Updated on 08/03/2026 18:19:06 UTC
 <!--END_SECTION:waka-->
