@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        ██████████████░░░░░░░░░░░   57.11 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Lua                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 1 hr 58 mins        ████████████░░░░░░░░░░░░░   49.78 % 
+Lua                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Vue.js                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.37 % 
-madcamp-2026-winter-MV-BA28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-KENSv3-master            19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-26_05_Folio              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-madcamp-homepage         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Unknown Project          1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+madcamp-homepage         49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+madcamp-2026-winter-MV-BA28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+KENSv3-master            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+26_05_Folio              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2026 15:46:34 UTC
+ Last Updated on 09/03/2026 18:37:18 UTC
 <!--END_SECTION:waka-->
