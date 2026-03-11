@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 43 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Lua                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Vue.js                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+Lua                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Vue.js                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 🐱‍💻 Projects: 
-madcamp-homepage         52 mins             █████████░░░░░░░░░░░░░░░░   34.97 % 
-Unknown Project          32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-madcamp-2026-winter-MV-BA28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-snacks.nvim              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-nvim                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+madcamp-homepage         56 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
+madcamp-2026-winter-MV-BA28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+nvim                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+snacks.nvim              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2026 15:38:22 UTC
+ Last Updated on 11/03/2026 18:39:40 UTC
 <!--END_SECTION:waka-->
