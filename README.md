@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -52,15 +52,15 @@ Unknown Project          13 mins             ██░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 12/03/2026 04:30:32 UTC
+ Last Updated on 12/03/2026 06:40:14 UTC
 <!--END_SECTION:waka-->
