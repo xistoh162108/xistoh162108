@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Lua                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Vue.js                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Markdown                 1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
+C++                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Lua                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Vue.js                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🐱‍💻 Projects: 
-madcamp-homepage         56 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
-madcamp-2026-winter-MV-BA28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-nvim                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-snacks.nvim              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Unknown Project          52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+madcamp-homepage         49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+KENSv3-master            40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+nvim                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+madcamp-2026-winter-MV-BA28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2026 15:46:33 UTC
+ Last Updated on 12/03/2026 18:38:38 UTC
 <!--END_SECTION:waka-->
