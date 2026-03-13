@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
-C++                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Lua                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Vue.js                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Python                   4 hrs 35 mins       ██████████████░░░░░░░░░░░   56.21 % 
+Markdown                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+C++                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Lua                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Vue.js                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🐱‍💻 Projects: 
-Unknown Project          52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-madcamp-homepage         49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-KENSv3-master            40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-nvim                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-madcamp-2026-winter-MV-BA28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Unknown Project          5 hrs 37 mins       █████████████████░░░░░░░░   69.00 % 
+nvim                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+madcamp-homepage         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+KENSv3-master            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+snacks.nvim              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2026 15:33:38 UTC
+ Last Updated on 13/03/2026 18:27:55 UTC
 <!--END_SECTION:waka-->
