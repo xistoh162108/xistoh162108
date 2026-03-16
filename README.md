@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,17 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   6 hrs 19 mins       ███████████████░░░░░░░░░░   61.05 % 
-Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-C++                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Lua                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Vue.js                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Python                   7 hrs 42 mins       █████████████████░░░░░░░░   69.06 % 
+Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+C++                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Lua                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 31 mins       ██████████████████░░░░░░░   72.66 % 
-nvim                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-madcamp-homepage         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-KENSv3-master            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-snacks.nvim              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Unknown Project          8 hrs 56 mins       ████████████████████░░░░░   80.09 % 
+nvim                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+KENSv3-master            55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+madcamp-homepage         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2026 15:55:18 UTC
+ Last Updated on 16/03/2026 18:46:14 UTC
 <!--END_SECTION:waka-->
