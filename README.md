@@ -35,17 +35,17 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   7 hrs 42 mins       █████████████████████░░░░   83.52 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python                   3 hrs 7 mins        ███████████████████░░░░░░   75.79 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 16 mins       ██████████████████████░░░   89.67 % 
-nvim                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-KENSv3-master            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-madcamp-homepage         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Unknown Project          3 hrs 31 mins       █████████████████████░░░░   85.71 % 
+nvim                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+KENSv3-master            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+madcamp-homepage         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 15:34:06 UTC
+ Last Updated on 20/03/2026 18:33:02 UTC
 <!--END_SECTION:waka-->
