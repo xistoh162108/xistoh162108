@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,15 +35,15 @@ Sunday                   416 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        █████████████████░░░░░░░░   67.77 % 
-C++                      34 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C++                      24 mins             █████████████████████░░░░   82.57 % 
+TypeScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 24 mins        █████████████████░░░░░░░░   69.23 % 
-KENSv3-master            34 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-madcamp-homepage         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+KENSv3-master            24 mins             █████████████████████░░░░   82.57 % 
+soc_web                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+madcamp-homepage         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2026 15:51:46 UTC
+ Last Updated on 23/03/2026 18:38:43 UTC
 <!--END_SECTION:waka-->
