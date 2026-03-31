@@ -35,16 +35,14 @@ Sunday                   421 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        █████████████░░░░░░░░░░░░   52.58 % 
-Vue.js                   43 mins             ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   1 hr 19 mins        █████████████░░░░░░░░░░░░   52.76 % 
+Vue.js                   43 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 23 mins        ██████████████░░░░░░░░░░░   56.09 % 
-madcamp-homepage         1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.76 % 
-soc_web                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Unknown Project          1 hr 24 mins        ██████████████░░░░░░░░░░░   56.31 % 
+madcamp-homepage         1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.69 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +58,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2026 15:58:16 UTC
+ Last Updated on 31/03/2026 18:45:29 UTC
 <!--END_SECTION:waka-->
