@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,14 +35,15 @@ Sunday                   421 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        █████████████░░░░░░░░░░░░   52.76 % 
-Vue.js                   43 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Python                   1 hr 56 mins        ███████████████░░░░░░░░░░   60.62 % 
+Vue.js                   47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 24 mins        ██████████████░░░░░░░░░░░   56.31 % 
-madcamp-homepage         1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.69 % 
+Unknown Project          2 hrs 2 mins        ████████████████░░░░░░░░░   63.83 % 
+madcamp-homepage         1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.17 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -58,5 +59,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 16:01:30 UTC
+ Last Updated on 01/04/2026 18:44:37 UTC
 <!--END_SECTION:waka-->
