@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,15 +35,16 @@ Sunday                   626 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        █████████████░░░░░░░░░░░░   53.63 % 
-Vue.js                   47 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Python                   1 hr 26 mins        █████████████░░░░░░░░░░░░   51.49 % 
+Vue.js                   47 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 31 mins        ██████████████░░░░░░░░░░░   56.77 % 
-madcamp-homepage         1 hr 9 mins         ███████████░░░░░░░░░░░░░░   43.19 % 
+Unknown Project          1 hr 31 mins        ██████████████░░░░░░░░░░░   54.51 % 
+madcamp-homepage         1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   41.46 % 
+01_warruaibeta           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -60,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 15:33:25 UTC
+ Last Updated on 03/04/2026 18:33:19 UTC
 <!--END_SECTION:waka-->
