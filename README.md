@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   629 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ████████████░░░░░░░░░░░░░   47.15 % 
-Vue.js                   47 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   1 hr 26 mins        ████████████████░░░░░░░░░   65.76 % 
+Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 31 mins        ████████████░░░░░░░░░░░░░   49.92 % 
-madcamp-homepage         1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   37.97 % 
-b_O8hdQ82uQDu-1774507125512 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-01_warruaibeta           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-KENSv3-master            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Unknown Project          1 hr 31 mins        █████████████████░░░░░░░░   69.62 % 
+b_O8hdQ82uQDu-1774507125525 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+01_warruaibeta           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+madcamp-homepage         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+KENSv3-master            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2026 15:37:55 UTC
+ Last Updated on 06/04/2026 18:41:45 UTC
 <!--END_SECTION:waka-->
