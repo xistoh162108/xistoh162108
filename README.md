@@ -4,28 +4,28 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.73%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                626 commits         █████████░░░░░░░░░░░░░░░░   36.35 % 
-🌃 Evening                629 commits         █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌙 Night                  374 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+🌞 Morning                93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌆 Daytime                626 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                629 commits         █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌙 Night                  376 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Wednesday                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Monday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Wednesday                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 Thursday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Saturday                 327 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Sunday                   628 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
+Friday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Saturday                 327 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Sunday                   628 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
 ```
 
 
@@ -35,32 +35,32 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      3 hrs 54 mins       ██████████████████░░░░░░░   70.94 % 
-Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C++                      11 hrs 57 mins      ███████████████████████░░   93.19 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-KENSv3-master            3 hrs 54 mins       ██████████████████░░░░░░░   71.56 % 
-Unknown Project          1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-b_O8hdQ82uQDu-1774507125525 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-01_warruaibeta           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+KENSv3-master            11 hrs 57 mins      ███████████████████████░░   93.54 % 
+b_O8hdQ82uQDu-1774507125525 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+nvim                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+01_warruaibeta           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 09/04/2026 12:57:04 UTC
+ Last Updated on 09/04/2026 16:12:11 UTC
 <!--END_SECTION:waka-->
