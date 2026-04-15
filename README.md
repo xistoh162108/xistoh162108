@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    19 hrs 51 mins      ████████████░░░░░░░░░░░░░   49.41 % 
-C++                      13 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   34.62 % 
-Lua                      3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Bash                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    26 hrs 4 mins       ███████████████░░░░░░░░░░   61.29 % 
+C++                      10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Lua                      3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Bash                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-KENSv3-master            19 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.85 % 
-www                      7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-nvim                     7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-pixel-agents             1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Unknown Project          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+KENSv3-master            15 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.15 % 
+nvim                     11 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+www                      8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+pixel-agents             1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+brightbean-studio        1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 15:59:07 UTC
+ Last Updated on 15/04/2026 18:59:29 UTC
 <!--END_SECTION:waka-->
