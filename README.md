@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    38 hrs 37 mins      ████████████████████████░   95.41 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    34 hrs 27 mins      █████████████████████████   98.47 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-nvim                     17 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.50 % 
-KENSv3-master            10 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-www                      8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-brightbean-studio        1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+nvim                     16 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.07 % 
+www                      8 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+KENSv3-master            8 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+brightbean-studio        41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+warru-events             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2026 16:05:39 UTC
+ Last Updated on 20/04/2026 18:50:12 UTC
 <!--END_SECTION:waka-->
