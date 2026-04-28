@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    18 hrs 16 mins      ███████████████████░░░░░░   75.09 % 
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Rust                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-C++                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Image (svg)              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    19 hrs 5 mins       ███████████████████░░░░░░   74.97 % 
+Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Rust                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Image (svg)              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+C++                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-rustlings                9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
-PAIDEIA                  4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-KENSv3-master            2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Unknown Project          2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-ibd-epoa-gfw             1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+rustlings                9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
+PAIDEIA                  4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+participant-guide        3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+ibd-epoa-gfw             1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+yc9954-Github-code-analyz1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2026 16:34:18 UTC
+ Last Updated on 28/04/2026 19:17:31 UTC
 <!--END_SECTION:waka-->
