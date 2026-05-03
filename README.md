@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    21 hrs 24 mins      ███████████████░░░░░░░░░░   61.16 % 
-Python                   5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Markdown                 4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Rust                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    22 hrs 31 mins      ███████████████░░░░░░░░░░   59.78 % 
+Python                   7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Rust                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🐱‍💻 Projects: 
-rustlings                7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-02-data-crawler          6 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-soc_web                  6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-participant-guide        3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Unknown Project          2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+soc_web                  7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+02-data-crawler          6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+rustlings                5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+participant-guide        3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Unknown Project          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 15:37:58 UTC
+ Last Updated on 03/05/2026 18:41:57 UTC
 <!--END_SECTION:waka-->
