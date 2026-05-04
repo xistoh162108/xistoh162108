@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 hrs 31 mins      ███████████████░░░░░░░░░░   59.78 % 
-Python                   7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Rust                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Other                    26 hrs 11 mins      ████████████████░░░░░░░░░   65.90 % 
+Python                   7 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Markdown                 4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-soc_web                  7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-02-data-crawler          6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-rustlings                5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-participant-guide        3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Unknown Project          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+soc_web                  14 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   37.04 % 
+02-data-crawler          6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+participant-guide        3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Unknown Project          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+FakeTTL                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 16:26:17 UTC
+ Last Updated on 04/05/2026 19:11:49 UTC
 <!--END_SECTION:waka-->
