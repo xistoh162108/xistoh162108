@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   628 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    27 hrs 57 mins      ██████████████████░░░░░░░   71.51 % 
-Python                   7 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    28 hrs 55 mins      ████████████████████░░░░░   80.17 % 
+Python                   3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Markdown                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-soc_web                  18 hrs 4 mins       ████████████░░░░░░░░░░░░░   46.21 % 
-02-data-crawler          6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Unknown Project          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-FakeTTL                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-yc9954-Github-code-analyz2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+soc_web                  18 hrs 4 mins       █████████████░░░░░░░░░░░░   50.08 % 
+Unknown Project          3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+micloaker-src            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+02-data-crawler          3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+FakeTTL                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2026 16:25:10 UTC
+ Last Updated on 06/05/2026 19:19:36 UTC
 <!--END_SECTION:waka-->
