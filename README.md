@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   728 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    24 hrs 11 mins      ███████████████░░░░░░░░░░   59.10 % 
-TypeScript               8 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Markdown                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Image (svg)              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    26 hrs 43 mins      ███████████████░░░░░░░░░░   60.91 % 
+TypeScript               8 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Markdown                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Image (svg)              2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-01_warruaibeta           12 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-warru-ai-beta            5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-soc_web                  3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-micloaker-src            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-warru-ai                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+01_warruaibeta           12 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+warru-ai-beta            5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+participant-guide        5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+warru-ai                 3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+micloaker-src            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 17:03:25 UTC
+ Last Updated on 12/05/2026 19:27:39 UTC
 <!--END_SECTION:waka-->
