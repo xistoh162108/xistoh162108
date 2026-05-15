@@ -4,8 +4,6 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%202%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -62,5 +60,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 13:25:31 UTC
+ Last Updated on 15/05/2026 16:47:40 UTC
 <!--END_SECTION:waka-->
