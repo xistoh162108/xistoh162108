@@ -35,18 +35,18 @@ Sunday                   728 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    37 hrs 8 mins       ███████████████████░░░░░░   76.51 % 
-TypeScript               6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Markdown                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    34 hrs 56 mins      ███████████████████████░░   90.23 % 
+TypeScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Image (svg)              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-01_warruaibeta           9 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-lapd                     9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-ibd-epoa-gfw             6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-warru-ai                 5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-participant-guide        5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+lapd                     9 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+ibd-epoa-gfw             6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+participant-guide        5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Random2                  4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+warru-ai                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 15:49:39 UTC
+ Last Updated on 17/05/2026 18:52:47 UTC
 <!--END_SECTION:waka-->
