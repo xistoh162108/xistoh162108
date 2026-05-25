@@ -35,18 +35,17 @@ Sunday                   890 commits         ██████████░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    21 hrs 5 mins       ███████████████████████░░   91.56 % 
-Image (svg)              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    15 hrs 48 mins      ████████████████████████░   94.01 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Image (svg)              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-warru-ai                 16 hrs 12 mins      ██████████████████░░░░░░░   70.38 % 
-madcamp-homepage         4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-ibd-epoa-gfw             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-participant-guide        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-my-internet              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+warru-ai                 12 hrs 58 mins      ███████████████████░░░░░░   77.24 % 
+madcamp-homepage         3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+ibd-epoa-gfw             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+caveman                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 16:58:16 UTC
+ Last Updated on 25/05/2026 19:14:45 UTC
 <!--END_SECTION:waka-->
