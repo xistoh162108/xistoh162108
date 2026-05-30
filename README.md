@@ -4,8 +4,6 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2051%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -35,18 +33,18 @@ Sunday                   998 commits         ██████████░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    20 hrs 57 mins      ███████████████████████░░   91.09 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Image (svg)              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-sshconfig                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    21 hrs 46 mins      ███████████████████████░░   91.39 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Image (svg)              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+sshconfig                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-Trendchaser              5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-micloaker-web-console    5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-ibd-epoa-gfw             4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-dreamerv3                2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-PAIDEIA                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+micloaker-web-console    6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+Trendchaser              5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+ibd-epoa-gfw             4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+dreamerv3                2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+PAIDEIA                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +60,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 15:59:09 UTC
+ Last Updated on 30/05/2026 18:57:59 UTC
 <!--END_SECTION:waka-->
