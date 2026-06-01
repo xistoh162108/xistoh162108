@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   998 commits         ██████████░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 hrs 6 mins       ███████████████████████░░   90.83 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Image (svg)              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    28 hrs 36 mins      █████████████████████░░░░   85.30 % 
+Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Lua                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🐱‍💻 Projects: 
-micloaker-web-console    6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Trendchaser              5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-ibd-epoa-gfw             4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-dreamerv3                2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-PAIDEIA                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+micloaker-web-console    6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Trendchaser              5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+nvim                     5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+ibd-epoa-gfw             4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+dreamerv3                2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 19:51:48 UTC
+ Last Updated on 01/06/2026 22:56:20 UTC
 <!--END_SECTION:waka-->
