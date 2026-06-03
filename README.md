@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   998 commits         ██████████░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    33 hrs 19 mins      █████████████████████░░░░   83.76 % 
-Bash                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Lua                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-tmux                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other                    38 hrs 22 mins      ██████████████████████░░░   87.89 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Lua                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+tmux                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🐱‍💻 Projects: 
-nvim                     7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Folio                    7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-micloaker-web-console    6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Trendchaser              5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-marine-lang              3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Folio                    12 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+nvim                     7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+micloaker-web-console    6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Trendchaser              5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+marine-lang              3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 18:40:58 UTC
+ Last Updated on 03/06/2026 22:58:24 UTC
 <!--END_SECTION:waka-->
