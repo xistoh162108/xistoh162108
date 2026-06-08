@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   999 commits         ██████████░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    40 hrs 49 mins      ███████████████████░░░░░░   74.99 % 
-Markdown                 9 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Lua                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Other                    40 hrs 30 mins      ████████████████████░░░░░   78.45 % 
+Markdown                 8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Bash                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+tmux                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-Folio                    12 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-claude-korean-translator 9 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Unknown Project          8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-nvim                     7 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-PAIDEIA-codex            4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Folio                    12 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+claude-korean-translator 9 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Unknown Project          8 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+extensions               5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+PAIDEIA-codex            4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2026 17:44:30 UTC
+ Last Updated on 08/06/2026 20:00:04 UTC
 <!--END_SECTION:waka-->
