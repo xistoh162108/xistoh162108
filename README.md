@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   794 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    32 hrs 39 mins      ██████████████████░░░░░░░   73.16 % 
-Markdown                 9 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Lua                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    33 hrs 43 mins      ███████████████████░░░░░░   76.32 % 
+Markdown                 8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Lua                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+SSH Config               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-extensions               13 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Unknown Project          9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-container                8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-PAIDEIA-codex            4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-CS304-KENS               4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+extensions               13 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.61 % 
+container                10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Unknown Project          8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+personal-website         6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+CS304-KENS               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 17:30:57 UTC
+ Last Updated on 12/06/2026 19:50:45 UTC
 <!--END_SECTION:waka-->
