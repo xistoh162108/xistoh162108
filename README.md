@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -12,8 +12,8 @@ email: xistoh162108@kaist.ac.kr
 
 ```text
 🌞 Morning                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-🌆 Daytime                777 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌃 Evening                886 commits         ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌆 Daytime                778 commits         █████████░░░░░░░░░░░░░░░░   36.22 % 
+🌃 Evening                886 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
 🌙 Night                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -23,9 +23,9 @@ Monday                   204 commits         ██░░░░░░░░░�
 Tuesday                  184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 Wednesday                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 Thursday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Friday                   202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Saturday                 521 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Sunday                   794 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
+Friday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Saturday                 521 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Sunday                   794 commits         █████████░░░░░░░░░░░░░░░░   36.96 % 
 ```
 
 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 07:11:37 UTC
+ Last Updated on 12/06/2026 12:11:24 UTC
 <!--END_SECTION:waka-->
