@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   794 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    33 hrs 43 mins      ███████████████████░░░░░░   76.32 % 
-Markdown                 8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Lua                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-SSH Config               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    33 hrs 43 mins      █████████████████████░░░░   84.64 % 
+Markdown                 3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Lua                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+SSH Config               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-extensions               13 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.61 % 
-container                10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Unknown Project          8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-personal-website         6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-CS304-KENS               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+extensions               13 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
+container                10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+personal-website         7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Unknown Project          3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+LiveWallpaperMacOS       1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 16:08:39 UTC
+ Last Updated on 13/06/2026 19:05:44 UTC
 <!--END_SECTION:waka-->
