@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,17 +35,17 @@ Sunday                   814 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    29 hrs 57 mins      █████████████████████░░░░   82.93 % 
-Markdown                 6 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Other                    31 hrs 18 mins      ██████████████████████░░░   87.68 % 
+Markdown                 4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 tmux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-personal-website         28 hrs 17 mins      ████████████████████░░░░░   78.30 % 
-ponytail                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-ouroboros                2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Unknown Project          2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-gajae-code               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+personal-website         30 hrs 31 mins      █████████████████████░░░░   85.49 % 
+ouroboros                2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+ponytail                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+nvim                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 14:24:28 UTC
+ Last Updated on 22/06/2026 18:40:30 UTC
 <!--END_SECTION:waka-->
