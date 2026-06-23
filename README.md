@@ -35,17 +35,16 @@ Sunday                   814 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 18 mins      ██████████████████████░░░   87.68 % 
-Markdown                 4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-tmux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    26 hrs 50 mins      ██████████████████████░░░   86.51 % 
+Markdown                 4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+tmux                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-personal-website         30 hrs 31 mins      █████████████████████░░░░   85.49 % 
-ouroboros                2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-ponytail                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-nvim                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+personal-website         30 hrs 31 mins      █████████████████████████   98.38 % 
+ouroboros                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+nvim                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+team-matching            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +60,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 17:11:23 UTC
+ Last Updated on 23/06/2026 19:48:25 UTC
 <!--END_SECTION:waka-->
