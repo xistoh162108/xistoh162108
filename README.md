@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,16 +35,15 @@ Sunday                   814 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    26 hrs 50 mins      ██████████████████████░░░   86.51 % 
-Markdown                 4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-tmux                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    28 hrs 11 mins      ██████████████████████░░░   89.70 % 
+Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-personal-website         30 hrs 31 mins      █████████████████████████   98.38 % 
-ouroboros                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-nvim                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-team-matching            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+personal-website         26 hrs 39 mins      █████████████████████░░░░   84.84 % 
+team-matching            4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+warru-ai                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+madcamp-homepage         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +59,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 16:59:36 UTC
+ Last Updated on 24/06/2026 19:25:42 UTC
 <!--END_SECTION:waka-->
