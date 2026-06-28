@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,17 +35,17 @@ Sunday                   816 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    24 hrs 43 mins      ███████████████████████░░   90.06 % 
-HTTP Request             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Image (svg)              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    26 hrs 20 mins      ██████████████████████░░░   89.84 % 
+HTTP Request             2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Image (svg)              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-personal-website         9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-madcamp-dns              7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-team-matching            7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-participant-guide        3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-warru-ai                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+personal-website         7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+madcamp-dns              7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+team-matching            7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+participant-guide        4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+EE485                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +61,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 16:04:02 UTC
+ Last Updated on 28/06/2026 19:00:32 UTC
 <!--END_SECTION:waka-->
