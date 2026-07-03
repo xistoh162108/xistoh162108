@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,16 +35,16 @@ Sunday                   816 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    28 hrs 59 mins      ██████████████████████░░░   88.90 % 
-HTTP Request             3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    29 hrs 34 mins      ██████████████████████░░░   88.59 % 
+HTTP Request             3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-EE485                    7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-madcamp-dns              5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-26s-w1-c2-08             4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Agent-Blackbox           3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-warru-ai                 3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+EE485                    7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+warru-ai                 5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+26s-w1-c2-08             4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Agent-Blackbox           3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+personal-website         2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +60,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2026 16:19:11 UTC
+ Last Updated on 03/07/2026 18:59:57 UTC
 <!--END_SECTION:waka-->
