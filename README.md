@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -12,20 +12,20 @@ email: xistoh162108@kaist.ac.kr
 
 ```text
 🌞 Morning                203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-🌆 Daytime                886 commits         █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌃 Evening                963 commits         ██████████░░░░░░░░░░░░░░░   40.70 % 
+🌆 Daytime                887 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌃 Evening                963 commits         ██████████░░░░░░░░░░░░░░░   40.68 % 
 🌙 Night                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Monday                   212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 Tuesday                  200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Wednesday                224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Wednesday                224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 Thursday                 106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Saturday                 570 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Sunday                   816 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
+Saturday                 570 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Sunday                   816 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
 ```
 
 
@@ -50,9 +50,9 @@ Agent-Blackbox           3 hrs 37 mins       ███░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
@@ -60,5 +60,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 01:57:54 UTC
+ Last Updated on 06/07/2026 07:00:33 UTC
 <!--END_SECTION:waka-->
