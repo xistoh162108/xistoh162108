@@ -35,18 +35,18 @@ Sunday                   816 commits         █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    27 hrs 53 mins      █████████████████████░░░░   84.91 % 
+Other                    27 hrs 52 mins      █████████████████████░░░░   84.91 % 
 Python                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 Lua                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-26s-w1-c2-07             5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-micloaker-src            5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+26s-w1-c2-07             5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+micloaker-src            5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 InfoMasker               4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 26_01_micloaker_nrf      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-warru-ai                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+warru-ai                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 15:47:45 UTC
+ Last Updated on 12/07/2026 18:46:39 UTC
 <!--END_SECTION:waka-->
