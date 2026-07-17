@@ -11,21 +11,21 @@ email: xistoh162108@kaist.ac.kr
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-🌆 Daytime                785 commits         █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   39.40 % 
-🌙 Night                  300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌞 Morning                180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                786 commits         █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌙 Night                  300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Friday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Friday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 ```
 
 
@@ -54,7 +54,7 @@ sjr_wer_automation       4 hrs 28 mins       ███░░░░░░░░�
 ```text
 TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
 Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 10:30:34 UTC
+ Last Updated on 17/07/2026 13:00:34 UTC
 <!--END_SECTION:waka-->
