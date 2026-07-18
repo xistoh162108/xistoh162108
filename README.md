@@ -4,28 +4,28 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-🌆 Daytime                791 commits         █████████░░░░░░░░░░░░░░░░   37.33 % 
-🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   38.74 % 
-🌙 Night                  300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌞 Morning                202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+🌆 Daytime                791 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   38.84 % 
+🌙 Night                  300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Friday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Friday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 ```
 
 
@@ -52,15 +52,15 @@ Into-the-Deep            2 hrs 19 mins       ██░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 18/07/2026 12:46:32 UTC
+ Last Updated on 18/07/2026 15:44:24 UTC
 <!--END_SECTION:waka-->
