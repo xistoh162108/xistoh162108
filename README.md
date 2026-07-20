@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,18 +35,18 @@ Sunday                   608 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 36 mins      █████████████████████░░░░   83.32 % 
-Python                   3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Image (svg)              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    25 hrs 58 mins      ████████████████████░░░░░   80.83 % 
+Python                   3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Image (svg)              1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-26s-w2-c1-07             13 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
-warru-ai                 6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-sjr_wer_automation       4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Into-the-Deep            3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-26s-w2-c1-04             2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+26s-w2-c1-07             9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+warru-ai                 8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+sjr_wer_automation       4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Into-the-Deep            3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+26s-w3-c3-05             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 16:21:12 UTC
+ Last Updated on 20/07/2026 19:23:39 UTC
 <!--END_SECTION:waka-->
