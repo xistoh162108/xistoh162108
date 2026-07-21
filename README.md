@@ -4,28 +4,28 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                794 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌙 Night                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+🌞 Morning                231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                794 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌃 Evening                821 commits         ██████████░░░░░░░░░░░░░░░   38.26 % 
+🌙 Night                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Friday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Friday                   324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Sunday                   608 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 ```
 
 
@@ -35,18 +35,18 @@ Sunday                   608 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    25 hrs 58 mins      ████████████████████░░░░░   80.83 % 
-Python                   3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Image (svg)              1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    28 hrs              █████████████████████░░░░   85.96 % 
+Image (svg)              1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-26s-w2-c1-07             9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-warru-ai                 8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-sjr_wer_automation       4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Into-the-Deep            3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-26s-w3-c3-05             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+warru-ai                 11 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   36.74 % 
+26s-w2-c1-07             5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Into-the-Deep            3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+graphiti                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+26s-w3-c3-05             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +62,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 16:15:34 UTC
+ Last Updated on 21/07/2026 19:03:46 UTC
 <!--END_SECTION:waka-->
