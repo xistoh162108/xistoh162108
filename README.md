@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -12,9 +12,9 @@ email: xistoh162108@kaist.ac.kr
 
 ```text
 🌞 Morning                262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                962 commits         ██████████░░░░░░░░░░░░░░░   38.84 % 
-🌃 Evening                926 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌙 Night                  327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌆 Daytime                961 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                926 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌙 Night                  327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -22,10 +22,10 @@ email: xistoh162108@kaist.ac.kr
 Monday                   216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 Wednesday                245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Thursday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 515 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Sunday                   770 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Thursday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 515 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Sunday                   770 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
 ```
 
 
@@ -52,15 +52,15 @@ sjr_wer_automation       4 hrs 10 mins       ███░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 10:21:45 UTC
+ Last Updated on 25/07/2026 12:58:09 UTC
 <!--END_SECTION:waka-->
