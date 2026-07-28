@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2036%20mins-blue?style=flat)
 
@@ -13,21 +13,21 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-🌆 Daytime                1185 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
-🌃 Evening                1086 commits        █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌞 Morning                319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                1183 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌃 Evening                1086 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
 🌙 Night                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Tuesday                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Tuesday                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 Wednesday                260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Thursday                 259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Saturday                 596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Sunday                   1014 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
+Thursday                 257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Saturday                 596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Sunday                   1014 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
 ```
 
 
@@ -37,41 +37,41 @@ Sunday                   1014 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    24 hrs 45 mins      ███████████████████░░░░░░   74.11 % 
-Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Python                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    23 hrs 24 mins      ████████████████████░░░░░   78.56 % 
+Markdown                 4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-warru-ai                 14 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-graphiti                 6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-ouroboros                4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-sjr_wer_automation       2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-26_01_micloaker_nrf      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+warru-ai                 15 hrs 59 mins      █████████████░░░░░░░░░░░░   53.70 % 
+ouroboros                4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+graphiti                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+sjr_wer_automation       2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+26_01_micloaker_nrf      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 13 mins (21.63%)
+⏱ AI Coding Time: 4 hrs 16 mins (14.36%)
 
-✍️ 9,170 lines written by AI, 54 lines written by hand (99.41% AI-written)
+✍️ 1,832 lines written by AI, 54 lines written by hand (97.14% AI-written)
 
-🔤 476,993,645 Input Tokens, 1,073,592 Output Tokens
+🔤 280,879,500 Input Tokens, 482,954 Output Tokens
 
-💵 $1476.50 Estimated AI Cost This Week
+💵 $840.27 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 175 AI Prompts
+🧠 10 AI Sessions, 91 AI Prompts
 
-Sonnet                   6,366 lines         █████████████████░░░░░░░░   68.17 % 
-GPT                      2,973 lines         ████████░░░░░░░░░░░░░░░░░   31.83 % 
+Sonnet                   1,855 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📄 Detailed Prompter — average 1,350 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+🤖 AI-Driven — 97.14% of written lines came from AI
+📄 Detailed Prompter — average 555 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 16:31:37 UTC
+ Last Updated on 28/07/2026 19:06:20 UTC
 <!--END_SECTION:waka-->
