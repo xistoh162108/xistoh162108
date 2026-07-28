@@ -8,26 +8,26 @@ email: xistoh162108@kaist.ac.kr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                1165 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌃 Evening                1084 commits        █████████░░░░░░░░░░░░░░░░   36.87 % 
-🌙 Night                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+🌞 Morning                319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+🌆 Daytime                1169 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌃 Evening                1084 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌙 Night                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Tuesday                  203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Wednesday                260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Sunday                   1014 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
+Monday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Tuesday                  220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Wednesday                260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Thursday                 247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Saturday                 596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Sunday                   1014 commits        █████████░░░░░░░░░░░░░░░░   34.36 % 
 ```
 
 
@@ -79,7 +79,7 @@ GPT                      2,973 lines         ████████░░░�
 ```text
 TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   27.94 % 
 Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:22:53 UTC
+ Last Updated on 28/07/2026 05:39:23 UTC
 <!--END_SECTION:waka-->
