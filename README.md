@@ -37,39 +37,39 @@ Sunday                   2310 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    24 hrs 34 mins      ██████████████████░░░░░░░   72.51 % 
-YAML                     3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Python                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Image (svg)              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Other                    23 hrs 26 mins      ██████████████████░░░░░░░   71.86 % 
+YAML                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Python                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Image (svg)              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🐱‍💻 Projects: 
-warru-ai                 23 hrs 9 mins       █████████████████░░░░░░░░   68.34 % 
-InfoMasker               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-ouroboros                2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-config                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Libra                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+warru-ai                 23 hrs 9 mins       ██████████████████░░░░░░░   70.97 % 
+InfoMasker               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+config                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+ouroboros                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Libra                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (20.11%)
+⏱ AI Coding Time: 6 hrs 41 mins (20.49%)
 
 ✍️ 2,167 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 99,055,713 Input Tokens, 337,418 Output Tokens
+🔤 98,426,169 Input Tokens, 330,093 Output Tokens
 
-💵 $306.24 Estimated AI Cost This Week
+💵 $302.87 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 71 AI Prompts
+🧠 17 AI Sessions, 62 AI Prompts
 
 Sonnet                   1,750 lines         ████████████████████░░░░░   80.76 % 
 GPT                      417 lines           █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
+📝 Concise Prompter — average 331 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 12:55:55 UTC
+ Last Updated on 01/08/2026 18:53:46 UTC
 <!--END_SECTION:waka-->
