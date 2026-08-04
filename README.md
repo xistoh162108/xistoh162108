@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2059%20mins-blue?style=flat)
 
@@ -37,41 +37,41 @@ Sunday                   2391 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    19 hrs 14 mins      █████████████████░░░░░░░░   68.96 % 
-YAML                     3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Python                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Image (svg)              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Other                    17 hrs 46 mins      ██████████████████░░░░░░░   71.03 % 
+Python                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+YAML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Image (svg)              1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-warru-ai                 14 hrs 2 mins       █████████████░░░░░░░░░░░░   50.34 % 
-Libra                    7 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-InfoMasker               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-config                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-26_01_micloaker_nrf      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+warru-ai                 9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
+Libra                    7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+InfoMasker               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+config                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+claurst                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 34 mins (23.54%)
+⏱ AI Coding Time: 5 hrs 42 mins (22.78%)
 
-✍️ 2,167 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,750 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 98,136,626 Input Tokens, 319,399 Output Tokens
+🔤 97,217,679 Input Tokens, 295,551 Output Tokens
 
-💵 $301.18 Estimated AI Cost This Week
+💵 $296.22 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 55 AI Prompts
+🧠 6 AI Sessions, 36 AI Prompts
 
-Sonnet                   1,750 lines         ████████████████████░░░░░   80.76 % 
-GPT                      417 lines           █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Sonnet                   1,750 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 16:50:02 UTC
+ Last Updated on 04/08/2026 19:21:31 UTC
 <!--END_SECTION:waka-->
