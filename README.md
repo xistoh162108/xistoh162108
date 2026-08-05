@@ -8,26 +8,26 @@ email: xistoh162108@kaist.ac.kr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.79%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-🌆 Daytime                2729 commits        ██████████░░░░░░░░░░░░░░░   41.95 % 
-🌃 Evening                2079 commits        ████████░░░░░░░░░░░░░░░░░   31.96 % 
-🌙 Night                  972 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+🌞 Morning                750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+🌆 Daytime                2826 commits        ██████████░░░░░░░░░░░░░░░   42.00 % 
+🌃 Evening                2138 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌙 Night                  1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   758 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Wednesday                766 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Thursday                 491 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Friday                   411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Saturday                 1055 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Sunday                   2391 commits        █████████░░░░░░░░░░░░░░░░   36.75 % 
+Monday                   786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  658 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Wednesday                806 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 509 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Friday                   415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Saturday                 1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Sunday                   2472 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
 ```
 
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 19:15:33 UTC
+ Last Updated on 05/08/2026 22:08:15 UTC
 <!--END_SECTION:waka-->
