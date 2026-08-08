@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2013%20mins-blue?style=flat)
 
@@ -37,24 +37,24 @@ Sunday                   2553 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    15 hrs 29 mins      ████████████████████░░░░░   80.38 % 
-Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Swift                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Image (svg)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Other                    18 hrs 39 mins      █████████████████████░░░░   83.04 % 
+Python                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Swift                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Image (svg)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-InfoMasker               6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-Libra                    6 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
-claurst                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-sjr_wer_automation       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-MicloakerRecorder        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+InfoMasker               7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Libra                    6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+marimo                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+claurst                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+sjr_wer_automation       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (16.75%)
+⏱ AI Coding Time: 3 hrs 13 mins (14.37%)
 
 ✍️ 681 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 15:22:55 UTC
+ Last Updated on 08/08/2026 18:23:28 UTC
 <!--END_SECTION:waka-->
