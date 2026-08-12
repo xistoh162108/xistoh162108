@@ -78,15 +78,15 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 12/08/2026 07:09:10 UTC
+ Last Updated on 12/08/2026 09:58:00 UTC
 <!--END_SECTION:waka-->
