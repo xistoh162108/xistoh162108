@@ -37,40 +37,40 @@ Sunday                   2553 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    19 hrs 5 mins       ████████████████████░░░░░   79.95 % 
-Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Swift                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Git Config               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Other                    18 hrs 56 mins      █████████████████████░░░░   85.11 % 
+Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Swift                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Git Config               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-marimo                   8 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
-clip                     3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-InfoMasker               3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-warru-discord-bot        3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-sjr_wer_automation       2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+marimo                   8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
+warru-discord-bot        4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+clip                     3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+InfoMasker               2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+sjr_wer_automation       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (19.16%)
+⏱ AI Coding Time: 3 hrs 7 mins (14.07%)
 
-✍️ 6,663 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,132 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 90,728,174 Input Tokens, 470,188 Output Tokens
+🔤 1,586,439 Input Tokens, 311,209 Output Tokens
 
-💵 $215.22 Estimated AI Cost This Week
+💵 $31.28 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 98 AI Prompts
+🧠 7 AI Sessions, 63 AI Prompts
 
-Opus                     5,836 lines         ██████████████████████░░░   87.07 % 
-Sonnet                   867 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Opus                     5,836 lines         ████████████████████████░   94.57 % 
+Sonnet                   335 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,150 characters per prompt
+📄 Detailed Prompter — average 1,121 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -88,5 +88,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 15:52:40 UTC
+ Last Updated on 13/08/2026 18:50:33 UTC
 <!--END_SECTION:waka-->
