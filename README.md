@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2058%20mins-blue?style=flat)
 
@@ -37,42 +37,42 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    17 hrs 42 mins      █████████████░░░░░░░░░░░░   52.33 % 
-Markdown                 7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Python                   5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Swift                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    20 hrs 31 mins      ███████████████░░░░░░░░░░   61.14 % 
+Markdown                 4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Python                   4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Swift                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-warru-discord-bot        10 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-sjr_wer_automation       8 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-26_01_micloaker_nrf      5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-marimo                   3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-clip                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+warru-discord-bot        10 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
+personal-website         5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+26_01_micloaker_nrf      4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+sjr_wer_automation       3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+madcamp-git-tracker      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (50.46%)
+⏱ AI Coding Time: 12 hrs 8 mins (36.19%)
 
-✍️ 22,454 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,835 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,296,333 Input Tokens, 2,124,954 Output Tokens
+🔤 13,490,773 Input Tokens, 1,681,825 Output Tokens
 
-💵 $316.15 Estimated AI Cost This Week
+💵 $253.73 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 342 AI Prompts
+🧠 18 AI Sessions, 258 AI Prompts
 
-Opus                     10,210 lines        ███████████░░░░░░░░░░░░░░   45.28 % 
-Fable                    7,564 lines         ████████░░░░░░░░░░░░░░░░░   33.54 % 
-Sonnet                   4,777 lines         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Opus                     10,210 lines        ████████████░░░░░░░░░░░░░   46.55 % 
+Fable                    7,564 lines         █████████░░░░░░░░░░░░░░░░   34.49 % 
+Sonnet                   4,158 lines         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 562 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📄 Detailed Prompter — average 544 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -89,5 +89,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 18:25:11 UTC
+ Last Updated on 17/08/2026 21:20:37 UTC
 <!--END_SECTION:waka-->
