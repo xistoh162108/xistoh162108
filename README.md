@@ -13,21 +13,21 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                824 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.55 % 
-🌃 Evening                2347 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-🌙 Night                  1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+🌞 Morning                824 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌃 Evening                2351 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌙 Night                  1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   936 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Tuesday                  707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Wednesday                879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Monday                   936 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Tuesday                  707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Wednesday                879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Thursday                 556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Friday                   429 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Saturday                 1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
+Friday                   433 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Saturday                 1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
 ```
 
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 12:27:21 UTC
+ Last Updated on 21/08/2026 15:27:28 UTC
 <!--END_SECTION:waka-->
