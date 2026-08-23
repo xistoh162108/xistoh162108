@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2028%20mins-blue?style=flat)
 
@@ -37,24 +37,24 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 19 mins      ████████████████████░░░░░   79.98 % 
-Markdown                 5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Image (svg)              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    32 hrs 50 mins      ████████████████████░░░░░   80.55 % 
+Markdown                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Image (svg)              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-personal-website         14 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.86 % 
-soc_web                  9 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-demo-gitskins            4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-26_01_micloaker_nrf      3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-aframe-image-targets-exam3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+personal-website         13 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   34.18 % 
+soc_web                  10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+demo-gitskins            4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+26_01_micloaker_nrf      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+aframe-image-targets-exam3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (10.85%)
+⏱ AI Coding Time: 4 hrs 14 mins (10.42%)
 
 ✍️ 6,104 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -90,5 +90,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 15:15:48 UTC
+ Last Updated on 23/08/2026 18:17:01 UTC
 <!--END_SECTION:waka-->
