@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.07%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,43 +37,43 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    32 hrs 50 mins      ████████████████████░░░░░   80.55 % 
-Markdown                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Image (svg)              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    32 hrs              ████████████████████░░░░░   81.84 % 
+Markdown                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Image (svg)              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Git Config               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-personal-website         13 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   34.18 % 
-soc_web                  10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-demo-gitskins            4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-26_01_micloaker_nrf      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-aframe-image-targets-exam3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+soc_web                  15 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
+personal-website         9 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+demo-gitskins            4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+aframe-image-targets-exam3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+26_01_micloaker_nrf      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (10.42%)
+⏱ AI Coding Time: 3 hrs 23 mins (8.67%)
 
-✍️ 6,104 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,101 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,871,080 Input Tokens, 759,854 Output Tokens
+🔤 5,615,413 Input Tokens, 587,985 Output Tokens
 
-💵 $66.73 Estimated AI Cost This Week
+💵 $46.61 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 92 AI Prompts
+🧠 15 AI Sessions, 62 AI Prompts
 
-Sonnet                   5,832 lines         ████████████████████████░   95.22 % 
-Haiku                    293 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Sonnet                   4,829 lines         ████████████████████████░   94.28 % 
+Haiku                    293 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,015 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,066 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -90,5 +90,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 15:32:48 UTC
+ Last Updated on 24/08/2026 18:28:04 UTC
 <!--END_SECTION:waka-->
