@@ -37,44 +37,39 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    32 hrs              ████████████████████░░░░░   81.84 % 
-Markdown                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Image (svg)              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Diff                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Git Config               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    31 hrs 41 mins      ██████████████████████░░░   87.76 % 
+Markdown                 3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Image (svg)              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-soc_web                  15 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
-personal-website         9 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-demo-gitskins            4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-aframe-image-targets-exam3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-26_01_micloaker_nrf      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+soc_web                  20 hrs 5 mins       ██████████████░░░░░░░░░░░   55.61 % 
+personal-website         6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+demo-gitskins            2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+madcamp-dns              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (8.67%)
+⏱ AI Coding Time: 46 mins (2.16%)
 
-✍️ 5,101 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 5,615,413 Input Tokens, 587,985 Output Tokens
+🔤 1,859,139 Input Tokens, 44,643 Output Tokens
 
-💵 $46.61 Estimated AI Cost This Week
+💵 $12.08 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 62 AI Prompts
+🧠 7 AI Sessions, 34 AI Prompts
 
-Sonnet                   4,829 lines         ████████████████████████░   94.28 % 
-Haiku                    293 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,066 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 501 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +85,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 15:37:30 UTC
+ Last Updated on 25/08/2026 18:27:34 UTC
 <!--END_SECTION:waka-->
