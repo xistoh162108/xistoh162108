@@ -13,10 +13,10 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌞 Morning                837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌃 Evening                2360 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-🌙 Night                  1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌃 Evening                2360 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌙 Night                  1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -24,10 +24,10 @@ email: xistoh162108@kaist.ac.kr
 Monday                   937 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 Tuesday                  714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 Wednesday                896 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Thursday                 557 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 Friday                   433 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
+Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
 ```
 
 
@@ -85,5 +85,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 12:30:41 UTC
+ Last Updated on 26/08/2026 16:14:01 UTC
 <!--END_SECTION:waka-->
