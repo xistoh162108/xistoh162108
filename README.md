@@ -14,20 +14,20 @@ email: xistoh162108@kaist.ac.kr
 
 ```text
 🌞 Morning                837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌃 Evening                2360 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌙 Night                  1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌃 Evening                2360 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌙 Night                  1169 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   937 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Monday                   937 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 Tuesday                  714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Wednesday                896 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 557 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Wednesday                896 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Thursday                 559 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 Friday                   433 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
+Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
 ```
 
 
@@ -37,38 +37,37 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 41 mins      ██████████████████████░░░   87.76 % 
-Markdown                 3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Image (svg)              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Other                    28 hrs 22 mins      ██████████████████████░░░   89.29 % 
+Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Image (svg)              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-soc_web                  20 hrs 5 mins       ██████████████░░░░░░░░░░░   55.61 % 
-personal-website         6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-demo-gitskins            2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-madcamp-dns              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+soc_web                  21 hrs 38 mins      █████████████████░░░░░░░░   68.07 % 
+personal-website         3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+madcamp-dns              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+8thwall                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (2.16%)
+⏱ AI Coding Time: 16 mins (0.88%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,859,139 Input Tokens, 44,643 Output Tokens
+🔤 118,078 Input Tokens, 2,869 Output Tokens
 
-💵 $12.08 Estimated AI Cost This Week
+💵 $0.68 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 34 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 501 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 24 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -85,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 16:14:01 UTC
+ Last Updated on 26/08/2026 19:34:54 UTC
 <!--END_SECTION:waka-->
