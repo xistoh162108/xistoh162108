@@ -8,26 +8,26 @@ email: xistoh162108@kaist.ac.kr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.11%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌃 Evening                2360 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
-🌙 Night                  1169 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+🌞 Morning                854 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.15 % 
+🌃 Evening                2372 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌙 Night                  1178 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   937 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Tuesday                  714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Wednesday                896 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Thursday                 559 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Friday                   433 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
+Monday                   937 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Tuesday                  714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Wednesday                903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Thursday                 578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Sunday                   2695 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
 ```
 
 
@@ -88,5 +88,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 00:13:04 UTC
+ Last Updated on 28/08/2026 14:44:42 UTC
 <!--END_SECTION:waka-->
