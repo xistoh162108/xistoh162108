@@ -37,38 +37,42 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    28 hrs 22 mins      ██████████████████████░░░   89.29 % 
-Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Image (svg)              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Other                    35 hrs 12 mins      ███████████████████████░░   93.69 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Image (svg)              43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-soc_web                  21 hrs 38 mins      █████████████████░░░░░░░░   68.07 % 
-personal-website         3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-madcamp-dns              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-8thwall                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+soc_web                  30 hrs 9 mins       ████████████████████░░░░░   80.22 % 
+aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+madcamp-dns              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+personal-website         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+8thwall                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (0.88%)
+⏱ AI Coding Time: 48 mins (2.15%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 890 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 118,078 Input Tokens, 2,869 Output Tokens
+🔤 419,238 Input Tokens, 66,999 Output Tokens
 
-💵 $0.68 Estimated AI Cost This Week
+💵 $11.38 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
+Fable                    857 lines           ████████████████████████░   96.29 % 
+Sonnet                   33 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 24 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,665 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,5 +88,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 13:20:54 UTC
+ Last Updated on 28/08/2026 00:13:04 UTC
 <!--END_SECTION:waka-->
