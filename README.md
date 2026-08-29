@@ -37,22 +37,22 @@ Sunday                   2695 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    29 hrs 53 mins      ████████████████████████░   94.43 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Image (svg)              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    25 hrs 44 mins      ████████████████████████░   95.98 % 
+Image (svg)              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-soc_web                  23 hrs 49 mins      ███████████████████░░░░░░   75.25 % 
-aframe-image-targets-exam3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-madcamp-dns              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-personal-website         49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-sterri-meetingbot        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+soc_web                  23 hrs 12 mins      ██████████████████████░░░   86.51 % 
+madcamp-dns              2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+personal-website         43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+sterri-meetingbot        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+adobe-illustrator        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (0.88%)
+⏱ AI Coding Time: 16 mins (1.04%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 15:55:24 UTC
+ Last Updated on 29/08/2026 20:10:29 UTC
 <!--END_SECTION:waka-->
