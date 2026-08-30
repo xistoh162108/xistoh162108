@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2044%20mins-blue?style=flat)
 
@@ -37,22 +37,22 @@ Sunday                   2697 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    25 hrs 44 mins      ████████████████████████░   95.98 % 
-Image (svg)              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    23 hrs 24 mins      ████████████████████████░   96.57 % 
+Image (svg)              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-soc_web                  23 hrs 12 mins      ██████████████████████░░░   86.51 % 
-madcamp-dns              2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-personal-website         43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-sterri-meetingbot        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-adobe-illustrator        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+soc_web                  23 hrs 23 mins      ████████████████████████░   96.54 % 
+sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+adobe-illustrator        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+sterri-work              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+personal-website         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (1.04%)
+⏱ AI Coding Time: 16 mins (1.15%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 18:18:11 UTC
+ Last Updated on 30/08/2026 23:03:30 UTC
 <!--END_SECTION:waka-->
