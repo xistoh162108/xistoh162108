@@ -8,26 +8,26 @@ email: xistoh162108@kaist.ac.kr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.12%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.12 % 
-🌃 Evening                2372 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-🌙 Night                  1178 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.09 % 
+🌃 Evening                2372 commits        ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌙 Night                  1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Tuesday                  714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Monday                   942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  719 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 Wednesday                903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Thursday                 578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Sunday                   2697 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
+Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Sunday                   2697 commits        █████████░░░░░░░░░░░░░░░░   35.98 % 
 ```
 
 
@@ -74,15 +74,15 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
 
 
- Last Updated on 31/08/2026 09:05:56 UTC
+ Last Updated on 31/08/2026 16:49:29 UTC
 <!--END_SECTION:waka-->
