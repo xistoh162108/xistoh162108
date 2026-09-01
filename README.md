@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2053%20mins-blue?style=flat)
 
@@ -16,17 +16,17 @@ email: xistoh162108@kaist.ac.kr
 🌞 Morning                861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.08 % 
 🌃 Evening                2372 commits        ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌙 Night                  1184 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌙 Night                  1185 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Monday                   942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 Tuesday                  720 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Wednesday                903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                904 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 Thursday                 578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 Sunday                   2697 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
 ```
 
@@ -37,36 +37,37 @@ Sunday                   2697 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 hrs 20 mins      █████████████████████████   99.28 % 
-Image (svg)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    19 hrs 43 mins      █████████████████████████   98.98 % 
+Image (svg)              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-soc_web                  21 hrs 38 mins      ████████████████████████░   96.16 % 
-sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-adobe-illustrator        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-sterri-work              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-personal-website         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+soc_web                  17 hrs 39 mins      ██████████████████████░░░   88.58 % 
+scc-impression           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+adobe-illustrator        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+aws-access-key-id-secret-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (0.65%)
+⏱ AI Coding Time: 18 mins (1.55%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 29,510 Input Tokens, 2,956 Output Tokens
+🔤 125,528 Input Tokens, 7,170 Output Tokens
 
-💵 $0.28 Estimated AI Cost This Week
+💵 $0.84 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -83,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 18:08:01 UTC
+ Last Updated on 01/09/2026 22:58:20 UTC
 <!--END_SECTION:waka-->
