@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs-blue?style=flat)
 
@@ -37,36 +37,36 @@ Sunday                   2697 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 hrs 53 mins      █████████████████████████   99.00 % 
-Image (svg)              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other                    16 hrs 30 mins      █████████████████████████   98.38 % 
+Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-soc_web                  16 hrs 7 mins       █████████████████░░░░░░░░   69.73 % 
-scc-impression           4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-personal-website         1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-adobe-illustrator        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+soc_web                  5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
+personal-website         5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+scc-impression           4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+adobe-illustrator        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (1.6%)
+⏱ AI Coding Time: 20 mins (2.06%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 176,097 Input Tokens, 12,157 Output Tokens
+🔤 163,527 Input Tokens, 11,955 Output Tokens
 
-💵 $1.23 Estimated AI Cost This Week
+💵 $1.17 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 18 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
+📝 Concise Prompter — average 402 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 18:16:51 UTC
+ Last Updated on 03/09/2026 22:57:36 UTC
 <!--END_SECTION:waka-->
