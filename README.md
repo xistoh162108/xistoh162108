@@ -8,15 +8,15 @@ email: xistoh162108@kaist.ac.kr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   41.00 % 
-🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-🌙 Night                  1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌞 Morning                865 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                3080 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
+🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Night                  1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -24,10 +24,10 @@ email: xistoh162108@kaist.ac.kr
 Monday                   942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 Tuesday                  720 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 Wednesday                913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Thursday                 583 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Thursday                 585 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 Saturday                 1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   2697 commits        █████████░░░░░░░░░░░░░░░░   35.90 % 
+Sunday                   2697 commits        █████████░░░░░░░░░░░░░░░░   35.89 % 
 ```
 
 
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 01:53:25 UTC
+ Last Updated on 03/09/2026 07:31:41 UTC
 <!--END_SECTION:waka-->
