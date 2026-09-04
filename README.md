@@ -37,22 +37,22 @@ Sunday                   2697 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    16 hrs 30 mins      █████████████████████████   98.38 % 
-Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    15 hrs 25 mins      █████████████████████████   98.30 % 
+Image (svg)              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-soc_web                  5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
-personal-website         5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
-scc-impression           4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-sterri-meetingbot        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-adobe-illustrator        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+personal-website         6 hrs               ██████████░░░░░░░░░░░░░░░   38.23 % 
+soc_web                  4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.56 % 
+scc-impression           4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+adobe-illustrator        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+aws-access-key-id-secret-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (2.06%)
+⏱ AI Coding Time: 20 mins (2.2%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 17:58:48 UTC
+ Last Updated on 04/09/2026 20:04:29 UTC
 <!--END_SECTION:waka-->
