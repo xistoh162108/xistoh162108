@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs-blue?style=flat)
 
@@ -37,36 +37,36 @@ Sunday                   2698 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    17 hrs 58 mins      █████████████████████████   99.14 % 
-Image (svg)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    15 hrs              █████████████████████████   98.75 % 
+Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-personal-website         9 hrs 8 mins        █████████████░░░░░░░░░░░░   50.41 % 
-scc-impression           4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-soc_web                  4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-adobe-illustrator        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-aws-access-key-id-secret-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+personal-website         9 hrs 58 mins       ████████████████░░░░░░░░░   65.57 % 
+scc-impression           4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+soc_web                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+aws-access-key-id-secret-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+gajae-code               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (1.9%)
+⏱ AI Coding Time: 8 mins (0.94%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 163,527 Input Tokens, 11,955 Output Tokens
+🔤 111,146 Input Tokens, 7,465 Output Tokens
 
-💵 $1.17 Estimated AI Cost This Week
+💵 $0.74 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 893 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -83,5 +83,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 18:59:01 UTC
+ Last Updated on 07/09/2026 23:12:47 UTC
 <!--END_SECTION:waka-->
