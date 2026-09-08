@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs-blue?style=flat)
 
@@ -13,20 +13,20 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+🌞 Morning                878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 🌆 Daytime                3083 commits        ██████████░░░░░░░░░░░░░░░   40.92 % 
-🌃 Evening                2382 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌃 Evening                2382 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
 🌙 Night                  1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 Tuesday                  731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Wednesday                913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 Thursday                 586 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 Friday                   445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Saturday                 1215 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 1215 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 Sunday                   2698 commits        █████████░░░░░░░░░░░░░░░░   35.81 % 
 ```
 
@@ -37,35 +37,35 @@ Sunday                   2698 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    15 hrs              █████████████████████████   98.75 % 
-Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Other                    18 hrs              █████████████████████████   98.72 % 
+Image (svg)              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-personal-website         9 hrs 58 mins       ████████████████░░░░░░░░░   65.57 % 
-scc-impression           4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-soc_web                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-aws-access-key-id-secret-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-gajae-code               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+personal-website         9 hrs 58 mins       ██████████████░░░░░░░░░░░   54.65 % 
+gajae-code               4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+scc-impression           3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+aws-access-key-id-secret-4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (0.94%)
+⏱ AI Coding Time: 6 mins (0.63%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 111,146 Input Tokens, 7,465 Output Tokens
+🔤 80,216 Input Tokens, 5,595 Output Tokens
 
-💵 $0.74 Estimated AI Cost This Week
+💵 $0.54 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 893 characters per prompt
+📄 Detailed Prompter — average 975 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -83,5 +83,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 18:16:54 UTC
+ Last Updated on 08/09/2026 23:08:21 UTC
 <!--END_SECTION:waka-->
