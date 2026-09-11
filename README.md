@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2039%20mins-blue?style=flat)
 
@@ -13,21 +13,21 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-🌆 Daytime                3097 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
-🌃 Evening                2402 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  1220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌞 Morning                908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 Daytime                3097 commits        ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌃 Evening                2402 commits        ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌙 Night                  1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 Tuesday                  731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Wednesday                922 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Thursday                 600 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Wednesday                922 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Thursday                 600 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 Friday                   512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Saturday                 1218 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Sunday                   2698 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
+Saturday                 1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Sunday                   2698 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
 ```
 
 
@@ -37,36 +37,37 @@ Sunday                   2698 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    19 hrs 50 mins      ████████████████████████░   94.05 % 
-Image (svg)              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Other                    25 hrs 36 mins      ███████████████████████░░   92.53 % 
+Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-personal-website         9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
-gajae-code               9 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.16 % 
-cloudflare-waf           2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-synthaccess              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+personal-website         15 hrs 57 mins      ██████████████░░░░░░░░░░░   57.65 % 
+gajae-code               9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+cloudflare-waf           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+sd                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (12.56%)
+⏱ AI Coding Time: 2 hrs 52 mins (10.37%)
 
 ✍️ 439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,921,625 Input Tokens, 223,524 Output Tokens
+🔤 2,148,940 Input Tokens, 242,012 Output Tokens
 
-💵 $23.70 Estimated AI Cost This Week
+💵 $25.92 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 87 AI Prompts
+🧠 22 AI Sessions, 100 AI Prompts
 
 GPT                      439 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 396 characters per prompt
+📝 Concise Prompter — average 489 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -84,5 +85,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 18:05:00 UTC
+ Last Updated on 11/09/2026 20:26:46 UTC
 <!--END_SECTION:waka-->
