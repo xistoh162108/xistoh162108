@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2039%20mins-blue?style=flat)
 
@@ -37,14 +37,14 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    25 hrs 36 mins      ███████████████████████░░   92.53 % 
-Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Other                    25 hrs 17 mins      ███████████████████████░░   92.42 % 
+Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🐱‍💻 Projects: 
-personal-website         15 hrs 57 mins      ██████████████░░░░░░░░░░░   57.65 % 
-gajae-code               9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-cloudflare-waf           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+personal-website         15 hrs 38 mins      ██████████████░░░░░░░░░░░   57.15 % 
+gajae-code               9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+cloudflare-waf           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 sd                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
@@ -52,7 +52,7 @@ orca                     2 mins              ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 52 mins (10.37%)
+⏱ AI Coding Time: 2 hrs 52 mins (10.48%)
 
 ✍️ 439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -85,5 +85,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 17:36:05 UTC
+ Last Updated on 12/09/2026 19:51:14 UTC
 <!--END_SECTION:waka-->
