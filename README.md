@@ -37,37 +37,36 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    25 hrs 17 mins      ███████████████████████░░   92.42 % 
-Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other                    25 hrs 30 mins      ███████████████████████░░   92.48 % 
+Image (svg)              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-personal-website         15 hrs 38 mins      ██████████████░░░░░░░░░░░   57.15 % 
-gajae-code               9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
-cloudflare-waf           2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-sd                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+personal-website         16 hrs 1 min        ███████████████░░░░░░░░░░   58.09 % 
+gajae-code               9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+cloudflare-waf           2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+synthaccess              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 52 mins (10.48%)
+⏱ AI Coding Time: 2 hrs 42 mins (9.81%)
 
 ✍️ 439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,148,940 Input Tokens, 242,012 Output Tokens
+🔤 2,075,113 Input Tokens, 232,740 Output Tokens
 
-💵 $25.92 Estimated AI Cost This Week
+💵 $24.57 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 100 AI Prompts
+🧠 20 AI Sessions, 91 AI Prompts
 
 GPT                      439 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 489 characters per prompt
+📄 Detailed Prompter — average 518 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -85,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 17:52:10 UTC
+ Last Updated on 13/09/2026 20:02:09 UTC
 <!--END_SECTION:waka-->
