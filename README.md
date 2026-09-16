@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,39 +37,40 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 59 mins      ███████████████████████░░   92.86 % 
-Image (svg)              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    33 hrs 20 mins      ████████████████████████░   95.38 % 
+Image (svg)              1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-personal-website         26 hrs 50 mins      ███████████████████░░░░░░   77.91 % 
-gajae-code               4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-cloudflare-waf           2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-nyu-contemporary-techniqu40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-adapt-community-network  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+personal-website         30 hrs 50 mins      ██████████████████████░░░   88.23 % 
+Documents                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+cloudflare-waf           47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+nyu-contemporary-techniqu40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+bagjimin                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 58 mins (11.56%)
+⏱ AI Coding Time: 4 hrs 52 mins (13.93%)
 
-✍️ 446 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,636,209 Input Tokens, 296,699 Output Tokens
+🔤 2,185,379 Input Tokens, 305,827 Output Tokens
 
-💵 $31.21 Estimated AI Cost This Week
+💵 $42.75 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 131 AI Prompts
+🧠 23 AI Sessions, 154 AI Prompts
 
-GPT                      446 lines           █████████████████████████   100.00 % 
+GPT                      7 lines             █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 664 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,111 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -86,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 18:38:01 UTC
+ Last Updated on 16/09/2026 23:25:43 UTC
 <!--END_SECTION:waka-->
