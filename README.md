@@ -6,7 +6,7 @@ email: xistoh162108@kaist.ac.kr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,30 +37,30 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    33 hrs 20 mins      ████████████████████████░   95.38 % 
-Image (svg)              1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    30 hrs 25 mins      ████████████████████████░   95.65 % 
+Image (svg)              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-personal-website         30 hrs 50 mins      ██████████████████████░░░   88.23 % 
-Documents                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-cloudflare-waf           47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-nyu-contemporary-techniqu40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-bagjimin                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+personal-website         28 hrs 18 mins      ██████████████████████░░░   88.99 % 
+Documents                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+nyu-contemporary-techniqu40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+LaunchAgents             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+bagjimin                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (13.93%)
+⏱ AI Coding Time: 4 hrs 11 mins (13.17%)
 
 ✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,185,379 Input Tokens, 305,827 Output Tokens
+🔤 1,960,856 Input Tokens, 255,194 Output Tokens
 
-💵 $42.75 Estimated AI Cost This Week
+💵 $40.93 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 154 AI Prompts
+🧠 21 AI Sessions, 130 AI Prompts
 
 GPT                      7 lines             █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -69,8 +69,8 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,111 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,259 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 18:45:32 UTC
+ Last Updated on 17/09/2026 23:17:33 UTC
 <!--END_SECTION:waka-->
