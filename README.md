@@ -37,30 +37,30 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    30 hrs 25 mins      ████████████████████████░   95.65 % 
-Image (svg)              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    24 hrs 48 mins      ████████████████████████░   95.72 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Image (svg)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-personal-website         28 hrs 18 mins      ██████████████████████░░░   88.99 % 
-Documents                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-nyu-contemporary-techniqu40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-LaunchAgents             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-bagjimin                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+personal-website         20 hrs 19 mins      ████████████████████░░░░░   78.39 % 
+bagjimin                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Documents                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+nyu-contemporary-techniqu40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+adapt-community-network  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 11 mins (13.17%)
+⏱ AI Coding Time: 6 hrs 24 mins (24.71%)
 
 ✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,960,856 Input Tokens, 255,194 Output Tokens
+🔤 2,533,045 Input Tokens, 316,956 Output Tokens
 
-💵 $40.93 Estimated AI Cost This Week
+💵 $50.58 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 130 AI Prompts
+🧠 32 AI Sessions, 207 AI Prompts
 
 GPT                      7 lines             █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -69,7 +69,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,259 characters per prompt
+📄 Detailed Prompter — average 1,408 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 18:02:51 UTC
+ Last Updated on 18/09/2026 20:16:40 UTC
 <!--END_SECTION:waka-->
