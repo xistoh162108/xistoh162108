@@ -37,22 +37,22 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    23 hrs 37 mins      ████████████████████████░   96.98 % 
-Image (svg)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    21 hrs 47 mins      ████████████████████████░   96.74 % 
+Image (svg)              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-personal-website         19 hrs 7 mins       ████████████████████░░░░░   78.54 % 
-bagjimin                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Documents                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-nyu-contemporary-techniqu40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-adapt-community-network  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+personal-website         17 hrs 18 mins      ███████████████████░░░░░░   76.80 % 
+bagjimin                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Documents                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+nyu-contemporary-techniqu40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+adapt-community-network  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (24.79%)
+⏱ AI Coding Time: 6 hrs 2 mins (26.8%)
 
 ✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 17:51:26 UTC
+ Last Updated on 20/09/2026 19:59:13 UTC
 <!--END_SECTION:waka-->
