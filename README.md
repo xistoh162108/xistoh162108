@@ -37,41 +37,42 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    8 hrs 2 mins        ███████████████░░░░░░░░░░   59.43 % 
-Image (svg)              4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Raw token data           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    11 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Python                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Image (svg)              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🐱‍💻 Projects: 
-personal-website         9 hrs 23 mins       █████████████████░░░░░░░░   69.42 % 
-new-chat                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-acrobat                  1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-LaunchAgents             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-pwn-Saint-Vespers        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+personal-website         10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+pwn-Saint-Vespers        8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+web-CSALE                6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+new-chat                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+acrobat                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 22 mins (47.15%)
+⏱ AI Coding Time: 28 hrs 14 mins (80.33%)
 
-✍️ 266 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,463 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,813,296 Input Tokens, 203,203 Output Tokens
+🔤 8,806,190 Input Tokens, 2,036,584 Output Tokens
 
-💵 $35.21 Estimated AI Cost This Week
+💵 $249.32 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 106 AI Prompts
+🧠 69 AI Sessions, 292 AI Prompts
 
-GPT                      270 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,991 lines         █████████████████████░░░░   84.80 % 
+GPT                      352 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Fable                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 7,637 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -88,5 +89,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 13:58:14 UTC
+ Last Updated on 24/09/2026 18:49:42 UTC
 <!--END_SECTION:waka-->
