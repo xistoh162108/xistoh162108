@@ -37,41 +37,41 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    11 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.71 % 
-Python                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Markdown                 7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Image (svg)              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.24 % 
+Python                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Markdown                 7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Image (svg)              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+HTML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-personal-website         10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-pwn-Saint-Vespers        8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-web-CSALE                6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-new-chat                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-acrobat                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+personal-website         10 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+pwn-Saint-Vespers        8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+web-CSALE                6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+new-chat                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+acrobat                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 14 mins (80.33%)
+⏱ AI Coding Time: 26 hrs 55 mins (77.87%)
 
-✍️ 3,463 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,174 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,806,190 Input Tokens, 2,036,584 Output Tokens
+🔤 8,060,283 Input Tokens, 1,950,134 Output Tokens
 
-💵 $249.32 Estimated AI Cost This Week
+💵 $227.08 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 292 AI Prompts
+🧠 65 AI Sessions, 279 AI Prompts
 
-Opus                     2,991 lines         █████████████████████░░░░   84.80 % 
-GPT                      352 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Fable                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Opus                     2,702 lines         █████████████████████░░░░   83.45 % 
+GPT                      352 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Fable                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,637 characters per prompt
+📚 Verbose Prompter — average 7,995 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -89,5 +89,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 14:20:56 UTC
+ Last Updated on 25/09/2026 19:05:24 UTC
 <!--END_SECTION:waka-->
