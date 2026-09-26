@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,41 +37,41 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.24 % 
-Python                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Markdown                 7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Image (svg)              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-HTML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    11 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   40.42 % 
+Python                   5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Markdown                 5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Image (svg)              4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-personal-website         10 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
-pwn-Saint-Vespers        8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-web-CSALE                6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-new-chat                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-acrobat                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+personal-website         10 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   37.11 % 
+pwn-Saint-Vespers        8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+new-chat                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+web-CSALE                2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+acrobat                  1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 55 mins (77.87%)
+⏱ AI Coding Time: 20 hrs 2 mins (71.85%)
 
-✍️ 3,174 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,060,283 Input Tokens, 1,950,134 Output Tokens
+🔤 5,992,522 Input Tokens, 1,347,242 Output Tokens
 
-💵 $227.08 Estimated AI Cost This Week
+💵 $175.21 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 279 AI Prompts
+🧠 47 AI Sessions, 200 AI Prompts
 
-Opus                     2,702 lines         █████████████████████░░░░   83.45 % 
-GPT                      352 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Fable                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Opus                     2,053 lines         ████████████████████░░░░░   81.89 % 
+GPT                      270 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Fable                    184 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,995 characters per prompt
+📄 Detailed Prompter — average 613 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -89,5 +89,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 18:13:46 UTC
+ Last Updated on 26/09/2026 23:18:50 UTC
 <!--END_SECTION:waka-->
