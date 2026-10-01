@@ -37,36 +37,36 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 hrs 49 mins      ████████████████████████░   97.94 % 
-Image (svg)              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    24 hrs 29 mins      █████████████████████████   98.22 % 
+Image (svg)              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🐱‍💻 Projects: 
-bitcoin                  19 hrs 51 mins      █████████████████████░░░░   85.20 % 
-personal-website         1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-new-chat                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-tree_cardnews            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+bitcoin                  22 hrs 14 mins      ██████████████████████░░░   89.23 % 
+new-chat                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+personal-website         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+referenced-chatgpt-conver5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+new-chat-2               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (7.11%)
+⏱ AI Coding Time: 1 hr 52 mins (7.52%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 504,356 Input Tokens, 73,247 Output Tokens
+🔤 987,595 Input Tokens, 85,942 Output Tokens
 
-💵 $8.83 Estimated AI Cost This Week
+💵 $8.31 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 64 AI Prompts
+🧠 13 AI Sessions, 76 AI Prompts
 
-Opus                     10 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📄 Detailed Prompter — average 522 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -83,5 +83,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 17:44:01 UTC
+ Last Updated on 01/10/2026 22:11:12 UTC
 <!--END_SECTION:waka-->
