@@ -13,21 +13,21 @@ email: xistoh162108@kaist.ac.kr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-🌆 Daytime                3098 commits        ██████████░░░░░░░░░░░░░░░   40.50 % 
-🌃 Evening                2407 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-🌙 Night                  1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌞 Morning                911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+🌆 Daytime                3098 commits        ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌃 Evening                2407 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌙 Night                  1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   951 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 Tuesday                  741 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Wednesday                922 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Wednesday                924 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 Thursday                 600 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 Friday                   512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Saturday                 1223 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Sunday                   2700 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
+Saturday                 1223 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Sunday                   2700 commits        █████████░░░░░░░░░░░░░░░░   35.29 % 
 ```
 
 
@@ -37,40 +37,40 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    25 hrs 20 mins      ███████████████████████░░   93.95 % 
-Image (svg)              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    19 hrs 42 mins      ███████████████████████░░   92.58 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Image (svg)              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-bitcoin                  21 hrs 56 mins      ████████████████████░░░░░   81.33 % 
-files-mentioned-by-the-us2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-overview-overview-create-2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-new-chat                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-skip-to-main-content-my-h12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+bitcoin                  12 hrs 31 mins      ███████████████░░░░░░░░░░   58.82 % 
+overview-overview-create-6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+files-mentioned-by-the-us2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+skip-to-main-content-my-h12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+CSAW-CTF-2026-Quals-Publi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (15.64%)
+⏱ AI Coding Time: 3 hrs 41 mins (17.3%)
 
 ✍️ 1,094 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,114,423 Input Tokens, 297,438 Output Tokens
+🔤 2,896,405 Input Tokens, 280,661 Output Tokens
 
-💵 $49.62 Estimated AI Cost This Week
+💵 $48.64 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 63 AI Prompts
+🧠 4 AI Sessions, 43 AI Prompts
 
 GPT                      1,094 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 373 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 509 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 17:37:21 UTC
+ Last Updated on 06/10/2026 22:03:09 UTC
 <!--END_SECTION:waka-->
