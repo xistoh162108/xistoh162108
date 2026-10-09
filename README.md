@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,40 +37,40 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    27 hrs 46 mins      ████████████████████████░   94.38 % 
-Image (svg)              31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    26 hrs 59 mins      ███████████████████████░░   93.94 % 
+Image (svg)              31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-overview-overview-create-17 hrs 9 mins       ███████████████░░░░░░░░░░   58.34 % 
-bitcoin                  7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-personal-website         2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-files-mentioned-by-the-us2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-skip-to-main-content-my-h12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+overview-overview-create-17 hrs 9 mins       ███████████████░░░░░░░░░░   59.73 % 
+bitcoin                  4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+personal-website         4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+files-mentioned-by-the-us2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+skip-to-main-content-my-h12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 51 mins (13.14%)
+⏱ AI Coding Time: 4 hrs 8 mins (14.43%)
 
-✍️ 1,094 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,431 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,211,433 Input Tokens, 300,467 Output Tokens
+🔤 3,433,540 Input Tokens, 333,410 Output Tokens
 
-💵 $50.93 Estimated AI Cost This Week
+💵 $52.01 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 50 AI Prompts
+🧠 12 AI Sessions, 61 AI Prompts
 
-GPT                      1,094 lines         █████████████████████████   100.00 % 
+GPT                      1,431 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 505 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 533 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 17:44:18 UTC
+ Last Updated on 09/10/2026 22:03:14 UTC
 <!--END_SECTION:waka-->
