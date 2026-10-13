@@ -37,38 +37,36 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    20 hrs 50 mins      ████████████████████████░   97.60 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Image (svg)              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    16 hrs 41 mins      ████████████████████████░   97.96 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Image (svg)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-overview-overview-create-14 hrs 52 mins      █████████████████░░░░░░░░   69.68 % 
-personal-website         5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-raw                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-files-mentioned-by-the-us20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-penetration-testing-scann9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+overview-overview-create-10 hrs 48 mins      ████████████████░░░░░░░░░   63.44 % 
+personal-website         5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
+files-mentioned-by-the-us20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+raw                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+new-chat                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (5.32%)
+⏱ AI Coding Time: 47 mins (4.64%)
 
-✍️ 784 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 617 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 800,802 Input Tokens, 77,960 Output Tokens
+🔤 713,388 Input Tokens, 65,512 Output Tokens
 
-💵 $16.22 Estimated AI Cost This Week
+💵 $4.29 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 27 AI Prompts
+🧠 12 AI Sessions, 25 AI Prompts
 
-GPT                      617 lines           ████████████████████░░░░░   78.70 % 
-Codex-Vscode             167 lines           █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+GPT                      617 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,365 characters per prompt
+📄 Detailed Prompter — average 1,473 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -86,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 09:56:10 UTC
+ Last Updated on 13/10/2026 18:42:46 UTC
 <!--END_SECTION:waka-->
