@@ -4,9 +4,9 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,37 +37,39 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    16 hrs 41 mins      ████████████████████████░   97.96 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Image (svg)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    10 hrs 32 mins      ████████████████████░░░░░   78.71 % 
+JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Image (svg)              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-overview-overview-create-10 hrs 48 mins      ████████████████░░░░░░░░░   63.44 % 
-personal-website         5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
-files-mentioned-by-the-us20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-raw                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-new-chat                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+personal-website         7 hrs 3 mins        █████████████░░░░░░░░░░░░   52.76 % 
+overview-overview-create-3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+skip-to-main-content-my-h2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+files-mentioned-by-the-us20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+your-account-cannot-be-cr8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (4.64%)
+⏱ AI Coding Time: 3 hrs 56 mins (29.41%)
 
-✍️ 617 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,007 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 713,388 Input Tokens, 65,512 Output Tokens
+🔤 2,967,251 Input Tokens, 259,258 Output Tokens
 
-💵 $4.29 Estimated AI Cost This Week
+💵 $20.14 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 25 AI Prompts
+🧠 13 AI Sessions, 54 AI Prompts
 
-GPT                      617 lines           █████████████████████████   100.00 % 
+GPT                      1,008 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,473 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 874 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -84,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 16:10:41 UTC
+ Last Updated on 14/10/2026 21:09:58 UTC
 <!--END_SECTION:waka-->
