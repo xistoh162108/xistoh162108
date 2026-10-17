@@ -37,39 +37,39 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 hrs 3 mins        ████████████████░░░░░░░░░   62.59 % 
-JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Other                    6 hrs 13 mins       ███████████████░░░░░░░░░░   60.20 % 
+JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-skip-to-main-content-my-h3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
-personal-website         2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-to                       2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-overview-overview-create-1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-files-mentioned-by-the-us10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+skip-to-main-content-my-h4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+to                       2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+personal-website         1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+overview-overview-create-1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+your-account-cannot-be-cr8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (55.46%)
+⏱ AI Coding Time: 5 hrs 56 mins (57.48%)
 
-✍️ 670 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 390 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,705,357 Input Tokens, 400,374 Output Tokens
+🔤 3,584,587 Input Tokens, 388,388 Output Tokens
 
-💵 $28.55 Estimated AI Cost This Week
+💵 $28.20 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 9 AI Sessions, 45 AI Prompts
 
-GPT                      671 lines           █████████████████████████   100.00 % 
+GPT                      391 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 856 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 389 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 17:40:32 UTC
+ Last Updated on 17/10/2026 19:51:26 UTC
 <!--END_SECTION:waka-->
