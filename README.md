@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2059%20mins-blue?style=flat)
 
@@ -37,24 +37,24 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 hrs 36 mins       ███████████████░░░░░░░░░░   61.25 % 
-JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    10 hrs 57 mins      ██████████████████░░░░░░░   72.12 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Image (svg)              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🐱‍💻 Projects: 
-skip-to-main-content-my-h4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.83 % 
-to                       2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-personal-website         1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-overview-overview-create-1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-sterri-meetingbot        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+skip-to-main-content-my-h4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+deepagents               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+to                       2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+personal-website         1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+overview-overview-create-1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 56 mins (55.19%)
+⏱ AI Coding Time: 5 hrs 56 mins (39.14%)
 
 ✍️ 390 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 16:04:13 UTC
+ Last Updated on 19/10/2026 21:52:57 UTC
 <!--END_SECTION:waka-->
