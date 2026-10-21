@@ -37,38 +37,38 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    17 hrs 38 mins      ███████████████████░░░░░░   76.33 % 
-JSON                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    18 hrs 24 mins      █████████████████████░░░░   84.31 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Image (svg)              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🐱‍💻 Projects: 
-deepagents               10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   45.63 % 
-skip-to-main-content-my-h3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-to                       3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-overview-overview-create-1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-personal-website         1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+deepagents               14 hrs 7 mins       ████████████████░░░░░░░░░   64.68 % 
+to                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+skip-to-main-content-my-h2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+sterri-meetingbot        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+overview-overview-create-50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 8 mins (30.9%)
+⏱ AI Coding Time: 4 hrs 9 mins (19.01%)
 
-✍️ 796 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 692 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,935,229 Input Tokens, 505,375 Output Tokens
+🔤 2,243,809 Input Tokens, 281,215 Output Tokens
 
-💵 $34.85 Estimated AI Cost This Week
+💵 $16.10 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 58 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-GPT                      797 lines           █████████████████████████   100.00 % 
+GPT                      692 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
+📝 Concise Prompter — average 320 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -76,15 +76,15 @@ GPT                      797 lines           ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Python                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 14:19:26 UTC
+ Last Updated on 21/10/2026 19:07:52 UTC
 <!--END_SECTION:waka-->
