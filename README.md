@@ -37,39 +37,39 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    18 hrs 24 mins      █████████████████████░░░░   84.31 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Image (svg)              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other                    18 hrs 18 mins      ██████████████████████░░░   89.68 % 
+Image (svg)              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-deepagents               14 hrs 7 mins       ████████████████░░░░░░░░░   64.68 % 
-to                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-skip-to-main-content-my-h2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-sterri-meetingbot        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-overview-overview-create-50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+deepagents               15 hrs 9 mins       ███████████████████░░░░░░   74.30 % 
+skip-to-main-content-my-h1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+sterri-meetingbot        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+harness                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+overview-overview-create-50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (19.01%)
+⏱ AI Coding Time: 1 hr 32 mins (7.54%)
 
 ✍️ 692 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,243,809 Input Tokens, 281,215 Output Tokens
+🔤 1,206,561 Input Tokens, 105,150 Output Tokens
 
-💵 $16.10 Estimated AI Cost This Week
+💵 $6.45 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
 
 GPT                      692 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 320 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 299 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 14:16:00 UTC
+ Last Updated on 22/10/2026 19:01:53 UTC
 <!--END_SECTION:waka-->
