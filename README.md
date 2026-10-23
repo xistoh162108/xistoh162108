@@ -37,24 +37,24 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    18 hrs 18 mins      ██████████████████████░░░   89.68 % 
-Image (svg)              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    21 hrs 41 mins      ███████████████████████░░   91.15 % 
+Image (svg)              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-deepagents               15 hrs 9 mins       ███████████████████░░░░░░   74.30 % 
-skip-to-main-content-my-h1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-sterri-meetingbot        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-harness                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-overview-overview-create-50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+deepagents               15 hrs 9 mins       ████████████████░░░░░░░░░   63.71 % 
+harness                  5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+sterri-meetingbot        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+overview-overview-create-50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+skip-to-main-content-my-h44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (7.54%)
+⏱ AI Coding Time: 1 hr 32 mins (6.47%)
 
 ✍️ 692 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 14:00:35 UTC
+ Last Updated on 23/10/2026 18:52:36 UTC
 <!--END_SECTION:waka-->
