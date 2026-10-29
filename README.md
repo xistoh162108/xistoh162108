@@ -37,38 +37,38 @@ Sunday                   2700 commits        █████████░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    24 hrs 8 mins       ███████████████████████░░   93.72 % 
-Image (svg)              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    22 hrs 58 mins      ████████████████████████░   94.14 % 
+Image (svg)              1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-harness                  23 hrs 27 mins      ███████████████████████░░   91.04 % 
-deepagents               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-11-website-inspection-dev49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-26_27_[NYU]CSGY9223-Selec12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-overview-overview-create-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+harness                  23 hrs 8 mins       ████████████████████████░   94.79 % 
+11-website-inspection-dev49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+26_27_[NYU]CSGY9223-Selec12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+overview-overview-create-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+https-docs-google-com-pre6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (5.09%)
+⏱ AI Coding Time: 1 hr 16 mins (5.25%)
 
 ✍️ 196 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,100,818 Input Tokens, 95,919 Output Tokens
+🔤 2,035,048 Input Tokens, 92,879 Output Tokens
 
-💵 $11.42 Estimated AI Cost This Week
+💵 $11.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 14 AI Prompts
+🧠 6 AI Sessions, 13 AI Prompts
 
 GPT                      196 lines           █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 504 characters per prompt
+📄 Detailed Prompter — average 538 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 17:48:41 UTC
+ Last Updated on 29/10/2026 22:13:20 UTC
 <!--END_SECTION:waka-->
