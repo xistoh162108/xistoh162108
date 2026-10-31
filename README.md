@@ -4,7 +4,7 @@ Jimin Park @ CS KAIST
 email: xistoh162108@kaist.ac.kr
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2035%20mins-blue?style=flat)
 
@@ -37,23 +37,23 @@ Sunday                   2700 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    19 hrs 6 mins       ███████████████████████░░   91.98 % 
-Image (svg)              1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    18 hrs 23 mins      ███████████████████████░░   90.77 % 
+Image (svg)              1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-harness                  19 hrs 29 mins      ███████████████████████░░   93.88 % 
-11-website-inspection-dev49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-26_27_[NYU]CSGY9223-Selec12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-overview-overview-create-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-https-docs-google-com-pre6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+harness                  18 hrs 59 mins      ███████████████████████░░   93.71 % 
+11-website-inspection-dev49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+26_27_[NYU]CSGY9223-Selec12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+overview-overview-create-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+https-docs-google-com-pre6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (6.18%)
+⏱ AI Coding Time: 1 hr 16 mins (6.33%)
 
 ✍️ 196 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 16:31:31 UTC
+ Last Updated on 31/10/2026 20:50:33 UTC
 <!--END_SECTION:waka-->
